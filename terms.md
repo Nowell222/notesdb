@@ -1,0 +1,1 @@
+This application ("Notes Vault") is provided as-is, for personal and non-commercial use by its developer only. There is no warranty of any kind, and the developer is not liable for any data loss. The app may be modified, updated, or discontinued at any time without notice. For questions, contact nowellandal71@gmail.com.
